@@ -1,4 +1,4 @@
-package com.company.Model;
+package com.company.Assignment4_1.Model;
 
 public class WeightBasedProduct extends Product{
 

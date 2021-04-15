@@ -1,9 +1,10 @@
-package com.company.Model;
+package com.company.Assignment4_1.Model;
 
 import java.util.Objects;
 
 public class Product {
 
+    //common attributes
     public String name;
     public String imageUrl;
 

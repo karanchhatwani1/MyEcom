@@ -1,19 +1,19 @@
-package com.company.Model;
+package com.company.Assignment4_2.Model;
 
 public class Variants {
 
-    String name;
+    String amount;
     float price;
 
-    public Variants(String name, float price) {
-        this.name = name;
+    public Variants(String amount, float price) {
+        this.amount = amount;
         this.price = price;
     }
 
     @Override
     public String toString() {
         return "Variants{" +
-                "name='" + name + '\'' +
+                "amount='" + amount + '\'' +
                 ", price=" + price +
                 '}';
     }
