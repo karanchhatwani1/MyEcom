@@ -1,7 +1,7 @@
 # MyEcom
 
 It is a basic E-commerce app which we can use to buy 
-groccery product and daily assentials
+groccery product and daily essentials
 
 Important repositary for this project are -
 
