@@ -25,4 +25,4 @@ some important concepts are :-
 
 # Preview 
 
-
+![ssf](https://user-images.githubusercontent.com/68476336/115114912-59d29c00-9faf-11eb-90dd-a461d4df5615.PNG)
