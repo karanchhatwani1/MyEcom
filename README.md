@@ -26,3 +26,9 @@ some important concepts are :-
 # Preview 
 
 ![ssf](https://user-images.githubusercontent.com/68476336/115114912-59d29c00-9faf-11eb-90dd-a461d4df5615.PNG)
+![sss](https://user-images.githubusercontent.com/68476336/115115031-ce0d3f80-9faf-11eb-84d0-4116aa566407.PNG)
+![sst](https://user-images.githubusercontent.com/68476336/115115034-d49bb700-9faf-11eb-9e37-2b22f0109d66.PNG)
+![ssfo](https://user-images.githubusercontent.com/68476336/115115035-d9606b00-9faf-11eb-8278-14d05a97a55c.PNG)
+![ssfi](https://user-images.githubusercontent.com/68476336/115115041-dd8c8880-9faf-11eb-8eff-0ea3fa9314a7.PNG)
+![sssi](https://user-images.githubusercontent.com/68476336/115115051-e67d5a00-9faf-11eb-8396-d8fbeb5515fd.PNG)
+
