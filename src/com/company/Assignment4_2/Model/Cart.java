@@ -5,7 +5,7 @@ import com.company.Assignment4_1.Model.Variants;
 import java.util.HashMap;
 
 public class Cart {
-    HashMap<String, CartItem> cartItem = new HashMap<>();
+    public HashMap<String, CartItem> cartItem = new HashMap<>();
     float total;
     int noOfItems;
 
@@ -44,7 +44,11 @@ public class Cart {
 
         //already exist
         if (cartItem.containsKey(key)) {
+
+            //total -= cartItem.get(key).cost();
             cartItem.get(key).quantity++;
+            //total -= cartItem.get(key).cost();
+
         }
         //adding for the first time
         else{
@@ -104,13 +108,9 @@ public class Cart {
         total -= variants.price;
         noOfItems --;
 
-        //removing cart item
-        cartItem.remove(key);
-
         if(cartItem.get(key).quantity == 0){
             cartItem.remove(key);
         }
     }
 
-    //removing single variant
 }

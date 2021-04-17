@@ -2,8 +2,8 @@ package com.company.Assignment4_2.Model;
 
 public class Variants {
 
-    String amount;
-    float price;
+    public String amount;
+    public float price;
 
     public Variants(String amount, float price) {
         this.amount = amount;

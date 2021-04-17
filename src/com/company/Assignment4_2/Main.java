@@ -33,11 +33,18 @@ public class Main {
         System.out.println();
 
         //removing weight based product
-        cart.remove(apple);
+        cart.removeAll(apple);
         System.out.println(cart);
         System.out.println();
 
         //removing variant based product
-        cart.removeAll(surf, surf.variantsList.get(0));
+        cart.removeAll(surf);
+        System.out.println(cart);
+        System.out.println();
+
+        //decrementing
+        cart.decrement(surf,surf.variantsList.get(0));
+        System.out.println(cart);
+        System.out.println();
     }
 }
